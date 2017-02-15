@@ -1,3 +1,6 @@
+**REFERENCES**
+ 1. https://conda.io/docs/using/index.html
+
 **BASIC COMMANDS**
 
  1. conda env create -f environment.yaml
