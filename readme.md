@@ -1,10 +1,8 @@
--------------------------------------------------------
---BASIC COMMANDS
--------------------------------------------------------
-conda env create -f environment.yaml
-conda env list
-conda env remove -n env-name
+**BASIC COMMANDS**
 
-source activate <env-name>
-source deactivate
+ 1. conda env create -f environment.yaml
+ 2. conda env list
+ 3. conda env remove -n env-name
+ 4. source activate <env-name>
+ 5. source deactivate
 
