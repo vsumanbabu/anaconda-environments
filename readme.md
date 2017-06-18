@@ -3,12 +3,12 @@
 
 **BASIC COMMANDS**
 
- 1. conda env remove -n <<environment name>>
- 2. conda env create -f <<environment.yaml>>
+ 1. conda env remove -n {{environment-name}}
+ 2. conda env create -f {{environment-name.yaml}}
  3. conda info --envs
  4. conda env list
  5. conda clean -tp 
- 4. source activate <<environment name>>
- 5. source deactivate <<environment name>>
+ 4. source activate {{environment-name}}
+ 5. source deactivate {{environment-name}}
 
 
