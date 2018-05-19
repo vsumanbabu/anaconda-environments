@@ -1,4 +1,4 @@
-name: data-science-template
+name: basic-python-2-template
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge

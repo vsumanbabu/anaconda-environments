@@ -1,6 +1,6 @@
-name: data-science-template
+name: basic-python-3-template
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
 dependencies:
-    - python==3.6.5
+    - python==3.6
